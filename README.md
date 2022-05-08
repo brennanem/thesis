@@ -5,4 +5,4 @@ Uses NLP models from the Classical Language Toolkit
 
 
 # Environment Initialization
-conda install --file requirements.txt
+pip install --file requirements.txt
